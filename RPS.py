@@ -1,5 +1,6 @@
-import random
+# Hi! This is a small Python program just to familiarise with logical ,comparator operators, if-elif-else conditions etc
 
+import random
 
 print("Choices : rock, paper , scissor")
 choices = ('rock','paper','scissor')
